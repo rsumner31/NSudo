@@ -1,4 +1,4 @@
-﻿# NSudo - A Powerful System Administration Tool
+# NSudo - A Powerful System Administration Tool
 
 [![appveyor.badge]][appveyor.link] 
 [![release.badge]][release.link]

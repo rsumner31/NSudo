@@ -1,4 +1,4 @@
-﻿# Changelog
+# Changelog
 
 - [简体中文](更新日志.md)
 
