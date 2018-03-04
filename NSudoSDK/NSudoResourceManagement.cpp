@@ -1,4 +1,4 @@
-﻿/******************************************************************************
+/******************************************************************************
 Project: NSudoSDK
 Description: Implementation for the Resource Management.
 File Name: NSudoResourceManagement.cpp
